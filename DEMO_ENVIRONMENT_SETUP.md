@@ -43,6 +43,6 @@ In order to take part in this workshop, you'll need to download and install the 
     ```
 
 10. Install Postman from <https://www.postman.com/downloads/>
-    1. Use the personal Microsoft account created in Step 1.i to sign in.
+    
 11. Install the Azure Command Line Tools (Azure CLI) - <https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest>
 
