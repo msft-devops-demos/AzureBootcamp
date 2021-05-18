@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-[Lab Setup](DEMO_ENVIRONMENT_SETUP.md)
+[Lab Setup](LAB_SETUP.md)
 
 ## Labs
 
