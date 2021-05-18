@@ -7,8 +7,9 @@ In order to take part in this workshop, you'll need to download and install the 
     2. Create a free Azure subscription at https://azure.microsoft.com/free/
     3. Create a free Azure DevOps organization  associated with your MSA
 
-2. Visual Studio 2019 (Any Edition) - <https://visualstudio.microsoft.com/vs/>
-3. Install Visual Studio Code (https://code.visualstudio.com/)
+2. Use Visual Studio 2019 (Any Edition) or Visual Studio Code
+   - Visual Studio 2019 (Any Edition) - <https://visualstudio.microsoft.com/vs/>
+   - Install Visual Studio Code (https://code.visualstudio.com/)
 4. The Chocolatey Package Manager for Windows. Open Windows PowerShell (as an Administrator) or PowerShell Core (V6 or V7) and paste the following command:
 
     ``` PowerShell

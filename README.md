@@ -6,6 +6,8 @@
 
 ## Labs
 
+1. [Web Apps](WebApps/Lab-WebApps.md)
+2. [Intra-Services Communications]()
 1. [Azure Functions - Introduction](01-Introduction/Lab/FunctionsIntroLab.md)
 1. [Azure Functions - Local Development](02-LocalDevelopment/Lab/Lab2-Index.md)
 1. [Azure Functions - Triggers & Bindings](03-TriggersBindings/Lab/Lab-TriggersBindings.md)
