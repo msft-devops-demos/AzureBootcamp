@@ -28,7 +28,7 @@ In this step we'll create an Azure web app in the app service plan we created ab
 1. Again, goto "+ Create a resource"
 1. In the New blade do a search for "Web App" (you may also see it listed under the Popular list)
 
-  ![Create Web App](img/create-webapp.png)
+  ![Create Web App](img/create-webapp.PNG)
 1. Click Create
     1. Reuse the Resource Group created in the step 3.i above
     1. Give your web app a unique name, e.g. azurerampup-webapp-_nnn_
@@ -60,7 +60,7 @@ Using Visual Studio, next we're going to create a blank .NET Core web app. This 
     - Leave other options as default and click 'Create'
 1. Build the project and run it locally to ensure the project has built correctly (From Debug -> Start Debugging)
   
-![Test Locally](img/test-webapplocally.png)
+![Test Locally](img/test-webapplocally.PNG)
 ## Publish the application
 
 Now we're going to publish our web app using the "publish" functionality available in Visual Studio.
@@ -69,7 +69,7 @@ Now we're going to publish our web app using the "publish" functionality availab
 
 1. Right-click the project in the Solution Explorer, and choose 'Publish...'
   
- ![Publish Web App](img/publish-webapp.png)
+ ![Publish Web App](img/publish-webapp.PNG)
 1. From the pop-up select Target as Azure and click 'Next'
 1. Select Specific Target as 'Azure App Service (Windows)' and click 'Next'
 4. Choose the correct Subscription name (you are working on for this Workshop)
@@ -158,5 +158,5 @@ Once you are happy that the application is running correctly and that the change
 - Ensure the Source is the staging slot and Target is the Production slot
 - Click 'Swap'. Clicking this will swap your Staging and production slot. Congratulations your changes are now live.
 
-  ![Swap Slots](img/swap-slots.png)
+  ![Swap Slots](img/swap-slots.PNG)
 - If you return to the Staging slot you'll notice that it contains the old version of your application. If you ever want to "roll back" a slot-swap you simply need to swap the slots again.
