@@ -16,7 +16,7 @@ The automated deployment of an Azure Function via Azure DevOps is made possible 
 ## Step 1 - Upload your Azure Function project to Azure DevOps
 
 1. **Connect to an Azure DevOps Organization**. 
-    [**AzureBootcampSandbox**](https://dev.azure.com/azurebootcampsandbox)
+   **AzureBootcampSandbox**
 
 1. **Create a new Azure DevOps Project**. An Azure DevOps Project contains all your source code, bugs & build pipelines etc. needed to build software in a team based environment. Follow the official Microsoft documentation on how to create a DevOps Project (inside the Organization you created above) - [Create a Project](https://docs.microsoft.com/en-us/azure/devops/organizations/projects/create-project?view=azure-devops)
 
