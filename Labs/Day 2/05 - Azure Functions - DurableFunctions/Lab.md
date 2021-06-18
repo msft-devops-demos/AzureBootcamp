@@ -17,8 +17,8 @@ In this lab we are going to rethink the implementation of the Taxi Booking Reque
 
 ## Step 1: Scaffolding
 
-- Create a new, empty, Functions Project.
-- Add a new function with the name `BookingOrchstrator` and select `Durable Functions Orchestration` as the template.
+- Create a new Functions Project using select `Durable Functions Orchestration` as the template.
+- Rename `Function1` function (created by default) with the name `BookingOrchstrator`.
 - Add a new HTTP triggered function called `BookingStarter`. Go back to the `BookingOrchestrator.cs` file and notice that there is a starter function there called `BookingOrchestrator_HttpStart` with the method name `HttpStart`. Let's copy the code from the starter function in the Orchestrator class into  the `BookingStarter` function.
   - Tip: As we're using v3 of Azure Functions for this function, we'll need to modify the return statements slightly. Delete the existing return statement and replace it with:
 
