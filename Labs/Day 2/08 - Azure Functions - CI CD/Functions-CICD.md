@@ -150,7 +150,7 @@ You will now create a pipeline in Azure DevOps to build the newly uploaded proje
 
 12. Select the *Deploy a function app to Azure Functions* template then press **Apply**.  
 
-   ![New Releasepipeline](./img/new-releasepipeline.PNG)
+   ![New Releasepipeline](./img/new-releasepipeline.png)
 
 12. Change the *Stage name* value from *Stage 1* to *Production* then press the X to close the side bar property editor.
 
